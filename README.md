@@ -42,6 +42,7 @@ Por fim, escolha a opção **2** (Site Cloner).
 
 ### Passo 7: Configurar o IP e o domínio do site
 Insira o IP da sua máquina virtual que será utilizado como host do site clonado, além do domínio do site que deseja clonar.
+
 <img src="https://github.com/user-attachments/assets/e0a560b7-0ded-4e7a-9c15-0a86199620fb" alt="Configuração do IP e domínio" width="600">
 
 ---
